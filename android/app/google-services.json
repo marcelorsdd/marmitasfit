@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870312965831",
+    "project_id": "marmitasfit-dc0af",
+    "storage_bucket": "marmitasfit-dc0af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870312965831:android:5b03f9d920e677716830e2",
+        "android_client_info": {
+          "package_name": "com.franmarmitasfit.marmitasfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEZuVRg4kByNBA191u2a3UwR1R_58o0G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
